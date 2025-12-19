@@ -1,0 +1,26 @@
+/*  Write a program that prints all the numbers between 1 and 100 (inclusive) that are divisible by both 3 and 5.
+
+Input Format
+
+N/A
+
+Constraints
+
+N/A
+
+Output Format
+
+Print all the numbers between 1 and 100 (inclusive) that are divisible by both 3 and 5, each number in a new line.  */
+
+
+#include <stdio.h>
+
+int main() {
+    int num = 1;
+    int n =15;
+    while(n<100){
+        printf("%d\n",n);
+        n = 15*(++num);
+    }  
+    return 0;
+}
