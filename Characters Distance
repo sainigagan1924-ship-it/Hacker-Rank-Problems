@@ -31,7 +31,7 @@ Sample Input 2
 m n
 Sample Output 2
 
-The distance between m and n is 1 *\
+The distance between m and n is 1 */
 
 
 #include <stdio.h>

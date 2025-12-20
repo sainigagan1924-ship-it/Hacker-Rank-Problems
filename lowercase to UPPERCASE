@@ -34,7 +34,7 @@ Sample Input 2
 g
 Sample Output 2
 
-The uppercase of g is G *\
+The uppercase of g is G */
 
 #include <stdio.h>
 #include <string.h>

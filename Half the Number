@@ -30,7 +30,11 @@ Sample Input 2
 Sample Output 2
 
 Half of -8 is -4.00
+<<<<<<< HEAD
   */
+=======
+ */
+>>>>>>> 1eba79b (update)
 
 
 
