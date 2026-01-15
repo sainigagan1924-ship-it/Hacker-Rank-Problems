@@ -18,7 +18,6 @@ Floating-point types:
 - float
 - double
 - long double
-
 Your task is to print the minimum and maximum values for each type using constants from limits.h and float.h.
 
 Print the ranges in the exact format shown below (each on a new line):
