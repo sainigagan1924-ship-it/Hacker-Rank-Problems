@@ -41,10 +41,9 @@ Sample Input 0
 0  
 150  
 Sample Output 0
-
 Celebration Approved
-Sample Input 1
 
+Sample Input 1
 500  
 30  
 15  
@@ -52,10 +51,9 @@ Sample Input 1
 0  
 100  
 Sample Output 1
-
 Celebration Denied
-Sample Input 2
 
+Sample Input 2
 1000  
 10  
 80  
@@ -63,10 +61,9 @@ Sample Input 2
 50  
 50  
 Sample Output 2
-
 Celebration Approved
-Sample Input 3
 
+Sample Input 3
 500  
 10  
 40  
@@ -74,7 +71,6 @@ Sample Input 3
 50  
 100  
 Sample Output 3
-
 Celebration Denied   */
 
 
