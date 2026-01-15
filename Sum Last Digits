@@ -12,7 +12,6 @@ Constraints
 
 0 ≤ a, b ≤ 10⁹
 Output Format
-
 Single line printing the result as: The sum of last digits is: {res}
 
 Sample Input 0
