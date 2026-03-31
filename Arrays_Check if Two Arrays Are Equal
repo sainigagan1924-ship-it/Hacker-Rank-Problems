@@ -50,8 +50,6 @@ Sample Output 2
 
 Not Equal  */
 
-
-
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
