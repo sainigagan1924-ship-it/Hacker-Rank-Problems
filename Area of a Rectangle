@@ -10,7 +10,6 @@ Input Format
 Two integers: {length} {width}
 
 Constraints
-
 1 ≤ length ≤ 10⁶
 1 ≤ width ≤ 10⁶
 Output Format
