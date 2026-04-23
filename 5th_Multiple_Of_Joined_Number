@@ -10,7 +10,6 @@ Input Format
 Four digits: {A} {B} {C} {D}
 
 Constraints
-
 0 ≤ each digit ≤ 9
 Output Format
 
