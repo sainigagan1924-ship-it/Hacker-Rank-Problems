@@ -7,7 +7,6 @@ Input Format
 First line: Integer N
 Second line: N space-separated integers
 Constraints
-
 1 ≤ N ≤ 10⁵
 −10⁹ ≤ A[i] ≤ 10⁹
 Output Format
